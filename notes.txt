@@ -1,0 +1,17 @@
+# C++ Build Steps
+
+1. Preprocessing
+a.) Statements beginning with # are processed
+b.) Include statements get replaced with file content
+c.) macros are expanded
+
+2.) Compilation
+a.) Code is checked for correct syntax
+b.) If no errors, code converted into object code
+
+3.) linking
+a.) Object code is inked with standard libraries
+b.) Output is executable file
+
+# Primitive Types
+
